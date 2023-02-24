@@ -7,7 +7,7 @@
   <name>ИнструментыРазработчикаКонсольЗапросов</name>
   <synonym>
     <key>ru</key>
-    <value>Консоль запросов</value>
+    <value>Инструмент разработчика Консоль запросов</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <defaultForm>DataProcessor.ИнструментыРазработчикаКонсольЗапросов.Form.Форма</defaultForm>

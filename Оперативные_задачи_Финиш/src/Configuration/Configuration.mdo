@@ -13,6 +13,7 @@
   <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="0a4f05d6-f7e3-49bc-b776-8ae50e23786b"/>
   <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="8509a85a-13b0-4837-a40b-b0f095534b93"/>
   <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="104944ba-9beb-4a79-be13-e61ca80d2002"/>
+  <configurationExtensionCompatibilityMode>8.3.21</configurationExtensionCompatibilityMode>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
@@ -90,9 +91,9 @@
   <reports>Report.Продажи</reports>
   <reports>Report.ВаловаяПрибыльДокумента</reports>
   <reports>Report.ВедомостьПоТоварам</reports>
+  <dataProcessors>DataProcessor.ИнструментыРазработчикаКонсольЗапросов</dataProcessors>
   <dataProcessors>DataProcessor.КонсольЗапросов</dataProcessors>
   <dataProcessors>DataProcessor.РасчетСебестоимости</dataProcessors>
-  <dataProcessors>DataProcessor.ИнструментыРазработчикаКонсольЗапросов</dataProcessors>
   <informationRegisters>InformationRegister.НашиЦены</informationRegisters>
   <informationRegisters>InformationRegister.ПланированиеОказаниеУслуг</informationRegisters>
   <informationRegisters>InformationRegister.ЗаданияНаРасчетСебестоимости</informationRegisters>

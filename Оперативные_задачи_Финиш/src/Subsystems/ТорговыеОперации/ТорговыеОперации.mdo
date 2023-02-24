@@ -25,7 +25,6 @@
   <content>InformationRegister.НашиЦены</content>
   <content>DocumentJournal.Товарный</content>
   <content>DocumentJournal.Касса</content>
-  <content>DataProcessor.КонсольЗапросов</content>
   <content>Report.Продажи</content>
   <content>Report.ВаловаяПрибыльДокумента</content>
   <content>AccumulationRegister.ОстаткиТоваров</content>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6bce23cd-829e-43ac-b28a-06496cc6607c">
+<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="43e7b2b2-ebb8-4bff-802c-321f3ce54970">
   <producedTypes>
-    <objectType typeId="63615eff-b073-4c88-856c-57904424bc44" valueTypeId="ad0dafb5-62b3-484b-a81d-9477cb111d85"/>
-    <managerType typeId="a694c973-d354-4da4-8f16-9035fe243147" valueTypeId="f7c69d26-555d-4875-8d1a-2f20577a2a22"/>
+    <objectType typeId="997756db-9779-41d9-a4ee-f2915e292199" valueTypeId="de3fd4b1-da39-4509-af77-0aecca8b11c7"/>
+    <managerType typeId="434ac9c9-1293-4cdc-aa13-c6dcbacaf1c2" valueTypeId="448ec6b3-fa77-41e3-b1cf-234ace5dcdbb"/>
   </producedTypes>
   <name>КонсольЗапросов</name>
   <synonym>
@@ -16,7 +16,7 @@
       <lang>ru</lang>
     </pages>
   </help>
-  <attributes uuid="124bb27e-901d-421c-8a8c-b6df9c3123e0">
+  <attributes uuid="618f4608-f964-40ea-902c-77a59d3cf0ce">
     <name>ИспользоватьАвтосохранение</name>
     <synonym>
       <key>ru</key>
@@ -32,7 +32,7 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
-  <attributes uuid="7005e675-3780-4053-8e02-b5ac27505bc8">
+  <attributes uuid="6e7dac3c-9bc6-47b5-99e9-c2bca515f4f3">
     <name>ПериодАвтосохранения</name>
     <synonym>
       <key>ru</key>
@@ -52,7 +52,7 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
-  <attributes uuid="fd3ab150-3506-492d-b1fb-3e67ca9d03c1">
+  <attributes uuid="a36a854d-a0b4-4c67-bad6-4938faa87454">
     <name>ПутьКФормам</name>
     <synonym>
       <key>ru</key>
@@ -71,7 +71,7 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
-  <attributes uuid="cb4b98a6-dbe1-4584-8cb2-c04eed2c98f4">
+  <attributes uuid="5282fad9-3eaf-4126-819d-0a8023ae4a8f">
     <name>ДоступныеТипыДанных</name>
     <synonym>
       <key>ru</key>
@@ -88,7 +88,7 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
-  <attributes uuid="22cedce5-46d3-40f7-b48c-479073f0bb63">
+  <attributes uuid="44dd2662-f419-4ca7-a262-bc37ade5f8e4">
     <name>ИмяФайла</name>
     <synonym>
       <key>ru</key>
@@ -106,7 +106,7 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
-  <attributes uuid="f08b5603-dc96-4c91-ab5f-bb548265f56a">
+  <attributes uuid="4596dfc2-10a8-426e-81b2-a156eb14cfc1">
     <name>ВыводитьВРезультатахЗапросаЗначенияСсылок</name>
     <synonym>
       <key>ru</key>
@@ -122,7 +122,7 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
-  <attributes uuid="cdec9ca9-426b-4a68-8b9a-eff8c3f97daa">
+  <attributes uuid="ed5b1fa6-e5d7-484f-8e27-f6750e72b8a3">
     <name>ТипОбхода</name>
     <synonym>
       <key>ru</key>
@@ -141,7 +141,7 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
-  <attributes uuid="68ecb5cb-3c02-46c3-a457-d1b5d6ce6caf">
+  <attributes uuid="351b840b-6c25-4925-91fa-88472829ec5c">
     <name>ЧередованиеЦветовВРезультатеЗапроса</name>
     <synonym>
       <key>ru</key>
@@ -157,7 +157,7 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
-  <attributes uuid="e4879f07-cdca-40ee-b90d-710ecf9a652f">
+  <attributes uuid="ff8ef456-c2be-4fed-ab17-533cad807f2e">
     <name>ЦветФонаЗапроса</name>
     <synonym>
       <key>ru</key>
@@ -169,7 +169,7 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
-  <attributes uuid="a99cf754-b1b6-4dd0-96c2-9f123ed5010b">
+  <attributes uuid="7365a9a0-9dad-41c0-9eeb-a7e7bee412d9">
     <name>ШрифтЗапрос</name>
     <synonym>
       <key>ru</key>
@@ -181,7 +181,7 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
-  <attributes uuid="73f6d7d1-b48e-4af5-8339-b55030700479">
+  <attributes uuid="b880c065-cb2b-4f30-8c58-75506ada7cbc">
     <name>ЦветШрифт</name>
     <synonym>
       <key>ru</key>
@@ -193,10 +193,10 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
-  <tabularSections uuid="ee0d3e62-129b-4638-b74e-399977e2e8d3">
+  <tabularSections uuid="dec3d40e-f24d-4154-8a4a-ffa41c86deba">
     <producedTypes>
-      <objectType typeId="f405e597-7ccd-4c12-93bf-ef98f561caa0" valueTypeId="b58511f8-feda-4ec4-a556-7ed9dc6d7015"/>
-      <rowType typeId="0d52876b-d93a-45b8-94ae-732c61fcdd95" valueTypeId="82412614-5f29-4f77-9163-7eb7620f4242"/>
+      <objectType typeId="8c8cf79a-d1a5-47de-a0e7-8d7b188118eb" valueTypeId="e4c4e69e-b96c-4725-a525-4ea53c8cb535"/>
+      <rowType typeId="4f5d7dd4-351b-4f1c-a733-8c2bf04a2217" valueTypeId="4b5c9623-5a2e-485a-87e0-13562ac65359"/>
     </producedTypes>
     <name>Запросы</name>
     <synonym>
@@ -211,7 +211,7 @@
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
     </standardAttributes>
-    <attributes uuid="c06ab90e-dcd2-422f-85eb-574bc9a0e407">
+    <attributes uuid="85434a1b-82e7-4ea4-a0df-ef6397afbaf0">
       <name>Идентификатор</name>
       <synonym>
         <key>ru</key>
@@ -228,7 +228,7 @@
       <maxValue xsi:type="core:UndefinedValue"/>
       <fillValue xsi:type="core:UndefinedValue"/>
     </attributes>
-    <attributes uuid="a2dee48c-3c6c-4b06-8546-117214a94c50">
+    <attributes uuid="6f528700-7921-41a8-8244-cab3d73dd2b0">
       <name>Имя</name>
       <synonym>
         <key>ru</key>
@@ -249,7 +249,7 @@
       <maxValue xsi:type="core:UndefinedValue"/>
       <fillValue xsi:type="core:UndefinedValue"/>
     </attributes>
-    <attributes uuid="e1f83cee-3468-4773-ace8-fd50bcd28455">
+    <attributes uuid="8c8a6b14-d763-490f-8cc2-83c9181bcde4">
       <name>Текст</name>
       <synonym>
         <key>ru</key>
@@ -270,7 +270,7 @@
         <value></value>
       </fillValue>
     </attributes>
-    <attributes uuid="fd08c39d-4bb1-4681-91f8-ef65eb41a40d">
+    <attributes uuid="0561b877-646b-4526-92cc-2f94189bef1f">
       <name>ВремяВыполнения</name>
       <synonym>
         <key>ru</key>
@@ -293,7 +293,7 @@
       <maxValue xsi:type="core:UndefinedValue"/>
       <fillValue xsi:type="core:UndefinedValue"/>
     </attributes>
-    <attributes uuid="2dd265d0-b1a0-48fe-b556-58466746c04e">
+    <attributes uuid="4386093f-4927-4c2a-a2b5-322e371928c3">
       <name>КоличествоСтрок</name>
       <synonym>
         <key>ru</key>
@@ -315,7 +315,7 @@
       <maxValue xsi:type="core:UndefinedValue"/>
       <fillValue xsi:type="core:UndefinedValue"/>
     </attributes>
-    <attributes uuid="cddfe0d9-1a47-4a2d-bf0b-068e2c0ae114">
+    <attributes uuid="cf261a31-e941-48c2-b3f8-e1438b8efc55">
       <name>АдресРезультата</name>
       <synonym>
         <key>ru</key>
@@ -338,7 +338,7 @@
         <value>                                                                                                    </value>
       </fillValue>
     </attributes>
-    <attributes uuid="af4a31fc-79bd-4b74-afbc-287662908072">
+    <attributes uuid="524b996d-281f-4e11-a1b0-96ee25569916">
       <name>АдресРезультатовЗапроса</name>
       <synonym>
         <key>ru</key>
@@ -361,7 +361,7 @@
         <value></value>
       </fillValue>
     </attributes>
-    <attributes uuid="d09fc104-7f62-4501-b93d-48b04776f7fa">
+    <attributes uuid="1e513a17-b19d-4c3e-a613-0c950731b020">
       <name>АдресХранилищаПланаЗапроса</name>
       <synonym>
         <key>ru</key>
@@ -377,7 +377,7 @@
         <value></value>
       </fillValue>
     </attributes>
-    <attributes uuid="f31cc453-62ed-471c-be5e-4ba2d37ffcf0">
+    <attributes uuid="6ee04c06-2e41-4d66-bda1-092118b8d641">
       <name>Заголовок</name>
       <synonym>
         <key>ru</key>
@@ -390,7 +390,7 @@
       <maxValue xsi:type="core:UndefinedValue"/>
       <fillValue xsi:type="core:UndefinedValue"/>
     </attributes>
-    <attributes uuid="090b4bab-a0a8-4620-87e4-9b4d42e0fc44">
+    <attributes uuid="9dbffbbc-3730-4ee2-b731-cd5de5a70c35">
       <name>Родитель</name>
       <synonym>
         <key>ru</key>
@@ -408,10 +408,10 @@
       <fillValue xsi:type="core:UndefinedValue"/>
     </attributes>
   </tabularSections>
-  <tabularSections uuid="73f6b1b0-e6bc-416d-ab96-61c6d37d371d">
+  <tabularSections uuid="404f4101-b954-4344-a8af-1e27c17deacb">
     <producedTypes>
-      <objectType typeId="42b4e87e-4f5a-4de9-a12b-b93d369e000b" valueTypeId="579ca1bb-10e1-49c2-bee3-c946998a9c19"/>
-      <rowType typeId="11ff7a62-18a2-4c12-b139-a4bcb3eab14f" valueTypeId="74c4115b-f78c-4ba1-9193-23dbb996b144"/>
+      <objectType typeId="55a3e636-1831-4fc8-b0a1-0cf9d38b3adb" valueTypeId="cde2c5a3-8972-4000-adcd-bbe1576e1aec"/>
+      <rowType typeId="aeaac11d-ce57-468b-9e56-a61ddbe84e3f" valueTypeId="282dd898-e47d-4961-a997-015154eb5db0"/>
     </producedTypes>
     <name>Параметры</name>
     <synonym>
@@ -426,7 +426,7 @@
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
     </standardAttributes>
-    <attributes uuid="a345843b-b07f-4734-9851-9c7f27603667">
+    <attributes uuid="bbcb96ef-4f74-44b4-a04a-25f8edf5623e">
       <name>Идентификатор</name>
       <synonym>
         <key>ru</key>
@@ -444,7 +444,7 @@
       <maxValue xsi:type="core:UndefinedValue"/>
       <fillValue xsi:type="core:UndefinedValue"/>
     </attributes>
-    <attributes uuid="311b665e-d8ab-4acc-9046-f1ba5dd61172">
+    <attributes uuid="426d4f60-2443-4ed3-a7fd-c09a858ffdc2">
       <name>ИдентификаторЗапроса</name>
       <synonym>
         <key>ru</key>
@@ -462,7 +462,7 @@
       <maxValue xsi:type="core:UndefinedValue"/>
       <fillValue xsi:type="core:UndefinedValue"/>
     </attributes>
-    <attributes uuid="ed02c69e-b3fb-4c3f-9d63-cc8fc0976ab4">
+    <attributes uuid="31723714-eef0-461d-bb0d-43951c6789ab">
       <name>Имя</name>
       <synonym>
         <key>ru</key>
@@ -485,7 +485,7 @@
         <value></value>
       </fillValue>
     </attributes>
-    <attributes uuid="0b916b18-f759-4a20-bc2f-b885cb27f7a5">
+    <attributes uuid="752450f6-6465-4e78-9ec3-32d2c3bd057e">
       <name>Тип</name>
       <synonym>
         <key>ru</key>
@@ -506,7 +506,7 @@
         <value></value>
       </fillValue>
     </attributes>
-    <attributes uuid="b63a2ab9-d4a1-43e3-934b-dfddc2d831a4">
+    <attributes uuid="5416f228-dbd3-4244-b4ed-1a05bbc292ba">
       <name>Значение</name>
       <synonym>
         <key>ru</key>
@@ -527,7 +527,7 @@
         <value></value>
       </fillValue>
     </attributes>
-    <attributes uuid="559eee4f-29a3-4dd9-b913-1e0696c6114d">
+    <attributes uuid="c23444b5-ce8b-44a0-8b1b-988e23e246f5">
       <name>ТипИзФайла</name>
       <synonym>
         <key>ru</key>
@@ -542,7 +542,7 @@
       <fillValue xsi:type="core:UndefinedValue"/>
     </attributes>
   </tabularSections>
-  <forms uuid="f370cef1-7169-4bae-8647-a86a98018f70">
+  <forms uuid="8ce07ed7-5878-4f87-abaf-d51b15697e04">
     <name>Форма</name>
     <synonym>
       <key>ru</key>
@@ -551,7 +551,7 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
-  <forms uuid="cb1097b4-1ea0-4a93-a5ad-0bcda7d38509">
+  <forms uuid="1731fcaf-6aa4-4b59-8432-5cd85c9fb7d5">
     <name>Настройки</name>
     <synonym>
       <key>ru</key>
@@ -560,7 +560,7 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
-  <forms uuid="5499f927-66dd-4f4e-bb3c-dff21f10c4e0">
+  <forms uuid="184f889b-8f24-4b02-993f-37e55ee34d0f">
     <name>ВыборЗапроса</name>
     <synonym>
       <key>ru</key>
@@ -569,7 +569,7 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
-  <forms uuid="37537180-16cf-4fea-854f-7a0eaf39d945">
+  <forms uuid="5abc916a-2748-4ea8-8198-2201fa01dd3f">
     <name>ТаблицаЗначений</name>
     <synonym>
       <key>ru</key>
@@ -578,7 +578,7 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
-  <forms uuid="833e7001-da77-4881-96d7-54ca7d5d4d1a">
+  <forms uuid="83227194-ee13-4270-a5b0-8e8d662df1c2">
     <name>ТекстЗапросаДляКонфигуратора</name>
     <synonym>
       <key>ru</key>
@@ -587,7 +587,7 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
-  <forms uuid="4cf96793-dcd2-4672-9d0a-477ff9fc4141">
+  <forms uuid="d4cd8d52-30f0-47f2-a10d-ccac02a4e9cd">
     <name>МоментВремени</name>
     <synonym>
       <key>ru</key>
@@ -596,7 +596,7 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
-  <forms uuid="ad82cdbc-b59f-4cf8-8986-a6dcfaf7a090">
+  <forms uuid="d83cae3d-1198-484d-a7e8-46c44d4992f4">
     <name>Граница</name>
     <synonym>
       <key>ru</key>
@@ -605,7 +605,7 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
-  <forms uuid="5a69b3d6-b03f-482d-9407-c6cb75f10521">
+  <forms uuid="c08818d1-adc7-4626-a621-c8e1ba3c7ecb">
     <name>РезультатЗапроса</name>
     <synonym>
       <key>ru</key>
@@ -614,7 +614,7 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
-  <forms uuid="92fe8853-b6bc-496e-a164-6749e5509339">
+  <forms uuid="6fd41fe3-312e-4b60-bcb5-7a6c4e27ed15">
     <name>ПланВыполненияЗапроса</name>
     <synonym>
       <key>ru</key>
@@ -623,7 +623,7 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
-  <templates uuid="a5ff6002-8e9d-4c55-911d-cdd0f7a91d6f">
+  <templates uuid="2fb6a96a-9255-4b7a-ad84-3382e9755d88">
     <name>РезультатВыполненияЗапроса</name>
     <synonym>
       <key>ru</key>
