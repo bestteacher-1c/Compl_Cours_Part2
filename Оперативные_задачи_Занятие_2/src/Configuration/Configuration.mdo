@@ -60,6 +60,7 @@
   <subsystems>Subsystem.ПланированиеУслуг</subsystems>
   <commonPictures>CommonPicture.Продажи</commonPictures>
   <commonPictures>CommonPicture.ОказаниеУслуг</commonPictures>
+  <commonPictures>CommonPicture.ФоновыйПроцесс</commonPictures>
   <interfaces>Interface.ОсновнойИнтерфейс</interfaces>
   <commonModules>CommonModule.Сервис</commonModules>
   <commonModules>CommonModule.Серверный</commonModules>

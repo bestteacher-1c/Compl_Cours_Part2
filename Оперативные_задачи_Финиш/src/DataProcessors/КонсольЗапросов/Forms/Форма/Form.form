@@ -1775,7 +1775,9 @@
       <autoMaxWidth>true</autoMaxWidth>
       <autoMaxHeight>true</autoMaxHeight>
       <extInfo xsi:type="form:PictureDecorationExtInfo">
-        <picture xsi:type="form:FormPicture"/>
+        <picture xsi:type="core:PictureRef">
+          <picture>CommonPicture.ФоновыйПроцесс</picture>
+        </picture>
       </extInfo>
     </items>
     <items xsi:type="form:Decoration">
