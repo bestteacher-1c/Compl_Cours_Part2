@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="09ecb843-bb15-4b71-ba79-dddb4155ca81">
+  <name>ОперативныеЗадачи</name>
+  <synonym>
+    <key>ru</key>
+    <value>Оперативные задачи</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <picture xsi:type="core:PictureRef">
+    <picture>CommonPicture.Продажи</picture>
+  </picture>
+  <content>Catalog.Номенклатура</content>
+  <content>Catalog.Контрагенты</content>
+  <content>Catalog.Склады</content>
+  <content>Catalog.Менеджеры</content>
+  <content>Document.ПоступлениеТоваров</content>
+  <content>Document.ПродажаТоваров</content>
+  <content>Document.ПКО</content>
+  <content>Document.РКО</content>
+  <content>DataProcessor.ИнструментыРазработчикаКонсольЗапросов</content>
+  <content>AccumulationRegister.ОстаткиНоменклатуры</content>
+  <content>AccumulationRegister.Задолженности</content>
+  <content>InformationRegister.НашиЦены</content>
+  <content>DocumentJournal.Товарный</content>
+  <content>DocumentJournal.Касса</content>
+  <content>DataProcessor.КонсольЗапросов</content>
+  <content>InformationRegister.ЦеныПоставщиков</content>
+  <content>AccumulationRegister.Продажи</content>
+</mdclass:Subsystem>
